@@ -1,1 +1,48 @@
-Hiii
+Hiii this file is regarding git demo
+
+GIT - in particular machine
+GITHUB- to share in distributed or to share in different machies
+
+
+Steps to push code in Git 
+
+1. open the folder where it is stored then go to cmd 
+
+2. to check git is installed in our machie or not?
+   -> git version
+
+3. signin
+4. configure->  git confi --global user.name "Quick" 
+
+5. initialize project folder to github
+   ->  git init
+    in folder .git file gets created
+
+6.  only text file not whole folder
+     git add textfilename.txt 
+              
+7. status? committed or not 
+  -> git status 
+"
+8.  to commit the data  -m reprents as message
+  ->  git commit -m "Adding employeedetails"
+
+9. after creating repositery linked to remote repositery
+->   get remote add origin (link)
+
+10. to push the code 
+  ->git push origin master
+
+11.  changes made in github by anyone should be reflected in local folder 
+  ->  
+
+
+https://github.com/rosh-13/githubinfo.git
+-----------------------Create repositery in github-------------
+
+give name 
+make it public
+create repositery
+link will be provided to us.
+
+--------------------------------------------------
