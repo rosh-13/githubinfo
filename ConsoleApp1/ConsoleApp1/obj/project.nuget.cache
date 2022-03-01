@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "STkyv3vdIHMorOxylEhZr1Snd02xwDlWxsfTIQd21rA12q4XXnu/qJfCynzjOIP8kpZCxTIp5kh9j7XqIqOlqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quick\\Documents\\Visual studio files\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quick\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
